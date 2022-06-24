@@ -46,14 +46,16 @@ export const NavbarLinkA = styled.a`
     }
 `
 export const NavbarLinkLogo = styled.img`
-    padding-top: 2%;
+    border: 10px;
+    padding-top: 4.2%;
     height: 100%;
     width: 60%;
+    
 `
 export const NavbarLinkLogoFoto = styled.img`
-    padding-top: 10px;
+    padding-top: 2px;
     padding-left: 10%;
-    width: 125px;
+    width: 114px;
 `
 
 
